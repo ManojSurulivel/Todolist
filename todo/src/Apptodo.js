@@ -34,7 +34,7 @@ function Apptodo() {
             setError("")
         }
       }}> Add</button>
-      <h1 style={{color:"red"}}>{error}</h1>
+      <h1 style={{color: "red"}}>{error}</h1>
       <div>
         <ul>
         {
